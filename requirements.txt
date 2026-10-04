@@ -1,0 +1,7 @@
+streamlit>=1.46
+streamlit-searchbox
+pandas
+numpy
+plotly
+fpdf2
+requests
